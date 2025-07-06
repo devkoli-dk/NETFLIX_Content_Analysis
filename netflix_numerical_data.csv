@@ -1,0 +1,151 @@
+Show_ID,Title,Category,Genre,Release_Year,Country,Rating,Duration,Director,Cast,Industry,Language,IMDB_Rating,User_Reviews,Revenue_Million,Seasons_Count
+s1,Andhadhun,Movie,Thriller,1998,France,PG-13,nan,Bong Joon-ho,nan,Bollywood,Hindi,7.6,,203.11,9.0
+s2,Better Call Saul,Movie,Thriller,2007,South Korea,TV-MA,nan,Baran bo Odar,nan,Hollywood,English,,27123.0,296.87,7.0
+s3,Black Mirror,TV Show,Comedy,2005,India,TV-MA,3 Seasons,Anurag Kashyap,Sonam Kapoor,Hollywood,English,9.0,34062.0,290.13,
+s4,Dangal,TV Show,Fantasy,2016,UK,TV-MA,10 Episodes,Bong Joon-ho,Millie Bobby Brown,Bollywood,Hindi,8.7,11177.0,331.65,
+s5,The Queen's Gambit,Movie,Comedy,2005,Germany,nan,1h 30m,Vince Gilligan,Song Kang-ho,Hollywood,English,6.5,,48.54,1.0
+s6,Gully Boy,TV Show,Comedy,2002,South Korea,R,2h 10m,Rajkumar Hirani,Bryan Cranston,Bollywood,Hindi,6.2,31220.0,326.41,
+s7,Ozark,TV Show,Comedy,1988,UK,nan,5 Seasons,Anurag Kashyap,Sonam Kapoor,Hollywood,English,,10882.0,156.76,4.0
+s8,Ozark,TV Show,Comedy,1991,Germany,R,1h 30m,Beau Willimon,Jon Hamm,Hollywood,English,7.7,2136.0,200.12,3.0
+s9,Zindagi Na Milegi Dobara,Movie,Comedy,1980,Germany,nan,1h 30m,Beau Willimon,Jon Hamm,Bollywood,Hindi,6.2,35832.0,429.14,7.0
+s10,Zindagi Na Milegi Dobara,Movie,Drama,1980,India,nan,3 Seasons,Alex Pina,Jennifer Aniston,Bollywood,Hindi,7.8,32966.0,5.51,3.0
+s11,Money Heist,TV Show,Thriller,2013,South Korea,PG-13,10 Episodes,Anurag Kashyap,Sonam Kapoor,Hollywood,English,6.8,8009.0,294.62,8.0
+s12,3 Idiots,Movie,Comedy,2011,Canada,nan,5 Seasons,Rajkumar Hirani,Jennifer Aniston,Bollywood,Hindi,,13987.0,,6.0
+s13,Stranger Things,Movie,Thriller,2004,USA,TV-14,nan,nan,Sonam Kapoor,Hollywood,English,7.0,38311.0,198.93,5.0
+s14,Zindagi Na Milegi Dobara,Movie,Thriller,2019,India,PG-13,nan,Baran bo Odar,nan,Bollywood,Hindi,6.3,32575.0,,4.0
+s15,Drishyam,Movie,Sci-Fi,1980,India,nan,2h 10m,Vince Gilligan,Bryan Cranston,Bollywood,Hindi,9.3,2007.0,118.1,8.0
+s16,Stranger Things,Movie,Drama,1995,Canada,TV-MA,5 Seasons,Alex Pina,nan,Hollywood,English,8.4,,,8.0
+s17,Dangal,TV Show,Comedy,2018,USA,TV-14,nan,Beau Willimon,Song Kang-ho,Bollywood,Hindi,5.6,,,1.0
+s18,Squid Game,Movie,Crime,1984,UK,TV-14,2h 10m,Baran bo Odar,Aamir Khan,Korean,Korean,8.9,48517.0,166.11,9.0
+s19,Peaky Blinders,TV Show,Mystery,2001,France,TV-14,10 Episodes,Baran bo Odar,Henry Cavill,Hollywood,English,7.2,45486.0,224.94,
+s20,3 Idiots,TV Show,Fantasy,2008,South Korea,PG-13,2h 10m,Vince Gilligan,Sonam Kapoor,Bollywood,Hindi,9.0,30257.0,,4.0
+s21,Chhichhore,Movie,Crime,1982,France,nan,nan,nan,Song Kang-ho,Bollywood,Hindi,8.6,22736.0,73.73,6.0
+s22,Bajrangi Bhaijaan,TV Show,Drama,1991,UK,nan,3 Seasons,nan,Aamir Khan,Bollywood,Hindi,,43207.0,225.27,6.0
+s23,Queen,TV Show,Mystery,2005,nan,TV-MA,3 Seasons,Anurag Kashyap,Shah Rukh Khan,Bollywood,Hindi,,,,
+s24,You,TV Show,Drama,1995,India,TV-MA,3 Seasons,Beau Willimon,Bryan Cranston,Hollywood,English,6.2,2435.0,474.34,8.0
+s25,Better Call Saul,Movie,Thriller,2016,USA,TV-14,nan,nan,Jennifer Aniston,Hollywood,English,7.4,34339.0,127.01,7.0
+s26,Money Heist,Movie,Mystery,2001,India,TV-MA,3 Seasons,Rajkumar Hirani,Jennifer Aniston,Hollywood,English,7.9,36150.0,180.27,1.0
+s27,House of Cards,TV Show,Thriller,2008,Germany,PG-13,5 Seasons,nan,nan,Hollywood,English,6.2,,190.3,5.0
+s28,Dangal,Movie,Crime,1993,India,nan,10 Episodes,Baran bo Odar,Jon Hamm,Bollywood,Hindi,5.6,27660.0,303.16,6.0
+s29,Friends,Movie,Crime,2007,India,TV-14,2h 10m,Vince Gilligan,Aamir Khan,Hollywood,English,8.8,6084.0,,4.0
+s30,BoJack Horseman,Movie,Mystery,1984,UK,TV-MA,2h 10m,Rajkumar Hirani,Shah Rukh Khan,Hollywood,English,,17661.0,,
+s31,Dark,Movie,Mystery,2009,UK,PG-13,nan,Anurag Kashyap,Song Kang-ho,Hollywood,English,,14507.0,,4.0
+s32,Chhichhore,TV Show,Comedy,1984,UK,PG-13,3 Seasons,Beau Willimon,Bryan Cranston,Bollywood,Hindi,5.8,8059.0,352.99,1.0
+s33,The Office,TV Show,Drama,1991,France,TV-MA,3 Seasons,Anurag Kashyap,Aamir Khan,Hollywood,English,6.2,19271.0,223.74,
+s34,Friends,Movie,Comedy,1995,Germany,nan,1h 30m,Baran bo Odar,Shah Rukh Khan,Hollywood,English,5.1,46539.0,,2.0
+s35,PK,Movie,Drama,2005,nan,TV-MA,10 Episodes,Rajkumar Hirani,Henry Cavill,Bollywood,Hindi,9.1,8491.0,279.51,
+s36,Stranger Things,TV Show,Comedy,2005,nan,TV-14,5 Seasons,Rajkumar Hirani,Sonam Kapoor,Hollywood,English,,48295.0,270.41,9.0
+s37,Sherlock,TV Show,Thriller,2000,UK,TV-MA,2h 10m,Rajkumar Hirani,Jennifer Aniston,Hollywood,English,7.6,15859.0,18.06,
+s38,Queen,Movie,Mystery,2018,USA,PG-13,1h 30m,Baran bo Odar,Song Kang-ho,Bollywood,Hindi,6.2,9073.0,493.36,2.0
+s39,House of Cards,TV Show,Crime,2015,France,TV-MA,1h 30m,Baran bo Odar,Jennifer Aniston,Hollywood,English,7.5,,62.36,9.0
+s40,Black Mirror,Movie,Drama,2012,Canada,nan,nan,Anurag Kashyap,Song Kang-ho,Hollywood,English,7.9,,116.33,9.0
+s41,Memories of Murder,Movie,Drama,2009,USA,R,2h 10m,Alex Pina,nan,Korean,Korean,8.7,12383.0,26.8,1.0
+s42,The Office,TV Show,Crime,2016,South Korea,TV-MA,nan,Anurag Kashyap,Jon Hamm,Hollywood,English,5.9,,320.36,3.0
+s43,Riverdale,TV Show,Comedy,2002,South Korea,nan,5 Seasons,Beau Willimon,Song Kang-ho,Hollywood,English,5.0,,,4.0
+s44,Dark,Movie,Drama,1989,USA,nan,1h 30m,Vince Gilligan,Jennifer Aniston,Hollywood,English,,38567.0,90.83,7.0
+s45,Stranger Things,Movie,Fantasy,1984,UK,PG-13,1h 30m,Rajkumar Hirani,nan,Hollywood,English,9.1,25860.0,45.19,4.0
+s46,The Witcher,TV Show,Thriller,2015,Canada,nan,10 Episodes,Alex Pina,Song Kang-ho,Hollywood,English,8.9,22195.0,52.55,
+s47,Dark,Movie,Mystery,2013,Canada,nan,5 Seasons,Vince Gilligan,Henry Cavill,Hollywood,English,7.7,,292.75,
+s48,Andhadhun,TV Show,Crime,2010,France,nan,1h 30m,Alex Pina,Jon Hamm,Bollywood,Hindi,7.7,26338.0,344.42,6.0
+s49,BoJack Horseman,Movie,Mystery,1989,Canada,nan,5 Seasons,nan,Song Kang-ho,Hollywood,English,8.0,22730.0,199.29,3.0
+s50,PK,TV Show,Fantasy,1998,South Korea,TV-14,2h 10m,nan,nan,Bollywood,Hindi,5.8,22427.0,240.47,6.0
+s51,Oldboy,TV Show,Drama,2011,Germany,TV-14,3 Seasons,Bong Joon-ho,Aamir Khan,Korean,Korean,9.1,36196.0,,6.0
+s52,Lucifer,TV Show,Drama,1980,UK,PG-13,1h 30m,nan,Millie Bobby Brown,Hollywood,English,6.9,,9.67,5.0
+s53,The Office,Movie,Fantasy,1984,Canada,TV-MA,10 Episodes,Anurag Kashyap,Shah Rukh Khan,Hollywood,English,6.7,22510.0,,
+s54,Parasite,Movie,Crime,1983,France,nan,2h 10m,nan,Millie Bobby Brown,Korean,Korean,7.3,45064.0,486.58,
+s55,Better Call Saul,TV Show,Thriller,1995,South Korea,TV-MA,5 Seasons,Baran bo Odar,Millie Bobby Brown,Hollywood,English,,8813.0,290.48,6.0
+s56,Black Mirror,Movie,Sci-Fi,2003,Germany,TV-MA,nan,Rajkumar Hirani,Bryan Cranston,Hollywood,English,5.7,32598.0,127.86,
+s57,The Office,TV Show,Crime,1995,India,PG-13,2h 10m,Anurag Kashyap,Henry Cavill,Hollywood,English,8.3,48182.0,261.34,
+s58,Gully Boy,TV Show,Sci-Fi,1981,India,nan,1h 30m,Vince Gilligan,Aamir Khan,Bollywood,Hindi,5.4,28570.0,171.98,8.0
+s59,Dangal,Movie,Fantasy,2007,Germany,nan,5 Seasons,Bong Joon-ho,Sonam Kapoor,Bollywood,Hindi,7.7,28082.0,,6.0
+s60,You,Movie,Comedy,2011,South Korea,R,3 Seasons,Bong Joon-ho,Song Kang-ho,Hollywood,English,6.1,30241.0,63.75,3.0
+s61,BoJack Horseman,TV Show,Sci-Fi,2006,France,TV-MA,2h 10m,Bong Joon-ho,Shah Rukh Khan,Hollywood,English,6.8,31678.0,67.22,
+s62,Zindagi Na Milegi Dobara,Movie,Thriller,1999,Germany,TV-MA,1h 30m,Vince Gilligan,Jon Hamm,Bollywood,Hindi,6.3,45569.0,72.63,4.0
+s63,PK,Movie,Comedy,2003,UK,TV-14,10 Episodes,Vince Gilligan,Aamir Khan,Bollywood,Hindi,6.6,12745.0,469.97,
+s64,Chhichhore,TV Show,Sci-Fi,1991,UK,R,nan,Vince Gilligan,Jennifer Aniston,Bollywood,Hindi,8.2,27029.0,366.72,5.0
+s65,Andhadhun,TV Show,Fantasy,2014,India,TV-14,5 Seasons,Vince Gilligan,Sonam Kapoor,Bollywood,Hindi,6.3,14025.0,,3.0
+s66,Better Call Saul,Movie,Comedy,2012,Canada,TV-14,2h 10m,Bong Joon-ho,Bryan Cranston,Hollywood,English,7.5,37124.0,,2.0
+s67,Breaking Bad,TV Show,Fantasy,2012,France,TV-14,2h 10m,Bong Joon-ho,Bryan Cranston,Hollywood,English,7.1,15288.0,,2.0
+s68,Chhichhore,TV Show,Sci-Fi,2022,India,PG-13,3 Seasons,Alex Pina,Aamir Khan,Bollywood,Hindi,8.0,24650.0,78.93,3.0
+s69,House of Cards,Movie,Fantasy,2016,Canada,PG-13,3 Seasons,Anurag Kashyap,nan,Hollywood,English,9.2,7540.0,118.05,2.0
+s70,Friends,TV Show,Thriller,1991,Canada,TV-14,10 Episodes,Rajkumar Hirani,Millie Bobby Brown,Hollywood,English,8.3,,,4.0
+s71,Zindagi Na Milegi Dobara,TV Show,Sci-Fi,1982,nan,R,nan,nan,Jennifer Aniston,Bollywood,Hindi,6.0,17422.0,128.4,2.0
+s72,Breaking Bad,Movie,Sci-Fi,1980,UK,TV-MA,10 Episodes,nan,Bryan Cranston,Hollywood,English,5.1,4342.0,331.15,9.0
+s73,Black Mirror,Movie,Sci-Fi,2012,South Korea,R,1h 30m,Baran bo Odar,Shah Rukh Khan,Hollywood,English,6.2,42846.0,489.34,
+s74,Zindagi Na Milegi Dobara,TV Show,Crime,2019,USA,nan,1h 30m,Bong Joon-ho,Bryan Cranston,Bollywood,Hindi,7.7,36612.0,187.77,9.0
+s75,Ozark,TV Show,Crime,1989,South Korea,PG-13,10 Episodes,Baran bo Odar,Jon Hamm,Hollywood,English,5.2,11396.0,,6.0
+s76,Riverdale,Movie,Crime,2022,USA,TV-MA,nan,Anurag Kashyap,Song Kang-ho,Hollywood,English,7.2,18482.0,122.83,1.0
+s77,Black Mirror,Movie,Thriller,2008,Germany,TV-MA,10 Episodes,Anurag Kashyap,Bryan Cranston,Hollywood,English,7.7,24411.0,415.61,4.0
+s78,Memories of Murder,Movie,Comedy,1992,UK,nan,nan,Baran bo Odar,Jon Hamm,Korean,Korean,6.5,,432.44,1.0
+s79,Memories of Murder,Movie,Fantasy,1991,Canada,nan,nan,Bong Joon-ho,Aamir Khan,Korean,Korean,,14261.0,,6.0
+s80,Squid Game,TV Show,Drama,2010,France,TV-14,5 Seasons,Baran bo Odar,Aamir Khan,Korean,Korean,5.5,4093.0,57.44,
+s81,Narcos,Movie,Sci-Fi,1981,USA,PG-13,nan,nan,Sonam Kapoor,Hollywood,English,5.3,12722.0,,
+s82,Queen,Movie,Fantasy,2014,South Korea,PG-13,3 Seasons,Alex Pina,Bryan Cranston,Bollywood,Hindi,8.3,,459.42,3.0
+s83,House of Cards,TV Show,Sci-Fi,2002,Canada,R,nan,nan,Shah Rukh Khan,Hollywood,English,7.2,,300.7,9.0
+s84,Friends,Movie,Thriller,1996,USA,TV-14,nan,Beau Willimon,Bryan Cranston,Hollywood,English,8.1,48851.0,470.5,6.0
+s85,Black Mirror,TV Show,Sci-Fi,2005,USA,TV-14,nan,Bong Joon-ho,Shah Rukh Khan,Hollywood,English,7.0,29087.0,413.59,9.0
+s86,Peaky Blinders,Movie,Crime,1987,nan,TV-14,1h 30m,Bong Joon-ho,Henry Cavill,Hollywood,English,6.1,33347.0,333.82,5.0
+s87,Oldboy,Movie,Drama,2008,USA,TV-14,3 Seasons,Rajkumar Hirani,Sonam Kapoor,Korean,Korean,8.7,34756.0,289.02,2.0
+s88,Squid Game,Movie,Mystery,2005,France,PG-13,3 Seasons,Vince Gilligan,Henry Cavill,Korean,Korean,8.6,40214.0,174.94,8.0
+s89,Gully Boy,TV Show,Sci-Fi,1989,UK,PG-13,10 Episodes,Beau Willimon,Bryan Cranston,Bollywood,Hindi,,17335.0,80.48,
+s90,Zindagi Na Milegi Dobara,TV Show,Fantasy,2005,France,TV-14,5 Seasons,Anurag Kashyap,Sonam Kapoor,Bollywood,Hindi,6.2,29602.0,302.87,2.0
+s91,Memories of Murder,Movie,Crime,2013,India,R,nan,Bong Joon-ho,Henry Cavill,Korean,Korean,,49901.0,159.74,4.0
+s92,3 Idiots,TV Show,Mystery,2020,Canada,TV-MA,2h 10m,Baran bo Odar,Millie Bobby Brown,Bollywood,Hindi,6.6,35450.0,433.35,
+s93,Bajrangi Bhaijaan,TV Show,Drama,1986,UK,TV-MA,5 Seasons,Beau Willimon,Bryan Cranston,Bollywood,Hindi,5.4,33196.0,496.68,4.0
+s94,Memories of Murder,TV Show,Mystery,1983,nan,R,5 Seasons,Rajkumar Hirani,Henry Cavill,Korean,Korean,9.1,6626.0,376.46,4.0
+s95,Breaking Bad,TV Show,Crime,1990,UK,TV-14,3 Seasons,Anurag Kashyap,Millie Bobby Brown,Hollywood,English,,8424.0,46.15,
+s96,Memories of Murder,TV Show,Comedy,2008,UK,PG-13,5 Seasons,Vince Gilligan,Millie Bobby Brown,Korean,Korean,9.3,13857.0,145.05,
+s97,The Office,TV Show,Comedy,2015,South Korea,TV-MA,nan,Vince Gilligan,Aamir Khan,Hollywood,English,7.0,45923.0,,2.0
+s98,Money Heist,Movie,Mystery,2004,UK,nan,nan,Rajkumar Hirani,Bryan Cranston,Hollywood,English,5.8,20982.0,325.61,
+s99,Breaking Bad,Movie,Thriller,2000,nan,nan,1h 30m,Rajkumar Hirani,Millie Bobby Brown,Hollywood,English,7.4,12425.0,382.83,
+s100,Narcos,TV Show,Fantasy,2015,France,R,nan,Baran bo Odar,Aamir Khan,Hollywood,English,8.9,,462.91,3.0
+s101,PK,Movie,Fantasy,1989,UK,TV-14,nan,Bong Joon-ho,Henry Cavill,Bollywood,Hindi,8.3,49290.0,219.65,5.0
+s102,The Office,Movie,Mystery,2016,Germany,TV-MA,3 Seasons,Vince Gilligan,Jon Hamm,Hollywood,English,,27431.0,450.79,
+s103,Bajrangi Bhaijaan,Movie,Sci-Fi,1988,Canada,TV-14,nan,Anurag Kashyap,Bryan Cranston,Bollywood,Hindi,8.0,20440.0,,
+s104,Friends,Movie,Sci-Fi,2003,UK,TV-MA,1h 30m,Beau Willimon,Sonam Kapoor,Hollywood,English,8.1,42752.0,159.28,9.0
+s105,Better Call Saul,TV Show,Fantasy,2014,Canada,R,2h 10m,Anurag Kashyap,Shah Rukh Khan,Hollywood,English,8.8,18175.0,,2.0
+s106,Better Call Saul,Movie,Fantasy,2014,Germany,R,3 Seasons,Alex Pina,Shah Rukh Khan,Hollywood,English,6.1,49651.0,188.46,2.0
+s107,PK,Movie,Comedy,2015,Germany,nan,2h 10m,Alex Pina,Henry Cavill,Bollywood,Hindi,7.2,27385.0,149.14,
+s108,The Crown,TV Show,Thriller,1997,Canada,TV-14,3 Seasons,Rajkumar Hirani,nan,Hollywood,English,,39158.0,324.89,9.0
+s109,Train to Busan,TV Show,Crime,2018,USA,nan,10 Episodes,Baran bo Odar,nan,Korean,Korean,9.4,,164.86,7.0
+s110,Train to Busan,Movie,Sci-Fi,2011,India,TV-14,5 Seasons,Alex Pina,Henry Cavill,Korean,Korean,9.2,19639.0,315.47,3.0
+s111,Dark,Movie,Fantasy,2003,South Korea,nan,10 Episodes,Vince Gilligan,Millie Bobby Brown,Hollywood,English,5.2,20994.0,305.31,9.0
+s112,Drishyam,Movie,Comedy,2002,USA,PG-13,nan,Anurag Kashyap,Bryan Cranston,Bollywood,Hindi,,,282.16,3.0
+s113,Gully Boy,Movie,Drama,2011,USA,PG-13,2h 10m,Anurag Kashyap,Shah Rukh Khan,Bollywood,Hindi,9.2,22563.0,190.83,5.0
+s114,Better Call Saul,Movie,Comedy,2016,France,PG-13,nan,Rajkumar Hirani,Shah Rukh Khan,Hollywood,English,,40341.0,,9.0
+s115,Andhadhun,Movie,Sci-Fi,1991,South Korea,PG-13,5 Seasons,Bong Joon-ho,Millie Bobby Brown,Bollywood,Hindi,7.6,6776.0,298.65,3.0
+s116,The Crown,TV Show,Sci-Fi,1992,South Korea,TV-MA,3 Seasons,Bong Joon-ho,Shah Rukh Khan,Hollywood,English,9.1,37444.0,273.3,
+s117,Train to Busan,Movie,Comedy,2002,USA,PG-13,5 Seasons,Beau Willimon,Sonam Kapoor,Korean,Korean,,4380.0,222.77,1.0
+s118,House of Cards,Movie,Crime,2004,UK,R,1h 30m,Rajkumar Hirani,Bryan Cranston,Hollywood,English,8.1,9711.0,8.32,4.0
+s119,3 Idiots,TV Show,Mystery,2014,France,R,5 Seasons,nan,Song Kang-ho,Bollywood,Hindi,6.3,9782.0,293.94,4.0
+s120,Queen,TV Show,Sci-Fi,2020,France,TV-MA,1h 30m,Beau Willimon,Shah Rukh Khan,Bollywood,Hindi,9.2,18434.0,85.05,7.0
+s121,Stranger Things,TV Show,Comedy,2009,Germany,PG-13,5 Seasons,nan,Henry Cavill,Hollywood,English,9.4,47765.0,321.65,8.0
+s122,The Witcher,TV Show,Fantasy,1996,nan,PG-13,1h 30m,Bong Joon-ho,Sonam Kapoor,Hollywood,English,9.2,21017.0,,1.0
+s123,Queen,Movie,Comedy,1999,South Korea,PG-13,2h 10m,Rajkumar Hirani,Shah Rukh Khan,Bollywood,Hindi,7.1,31707.0,,5.0
+s124,Queen,Movie,Thriller,2004,USA,nan,nan,nan,Sonam Kapoor,Bollywood,Hindi,8.9,,271.64,7.0
+s125,Sherlock,Movie,Mystery,2001,Germany,TV-14,nan,Rajkumar Hirani,Aamir Khan,Hollywood,English,8.8,,475.79,4.0
+s126,Drishyam,Movie,Drama,1992,Canada,nan,10 Episodes,Rajkumar Hirani,Song Kang-ho,Bollywood,Hindi,6.4,39827.0,423.74,4.0
+s127,Ozark,Movie,Crime,1998,India,TV-14,nan,Bong Joon-ho,Jennifer Aniston,Hollywood,English,8.7,42652.0,457.2,4.0
+s128,Queen,Movie,Drama,2015,nan,PG-13,3 Seasons,Beau Willimon,Henry Cavill,Bollywood,Hindi,,6655.0,,6.0
+s129,Chhichhore,TV Show,Mystery,1991,nan,PG-13,5 Seasons,Beau Willimon,Henry Cavill,Bollywood,Hindi,7.7,45859.0,55.35,7.0
+s130,Squid Game,Movie,Mystery,2020,nan,nan,10 Episodes,Rajkumar Hirani,Bryan Cranston,Korean,Korean,6.0,,75.35,2.0
+s131,Breaking Bad,TV Show,Mystery,1998,France,nan,3 Seasons,Alex Pina,Sonam Kapoor,Hollywood,English,5.5,1526.0,263.79,5.0
+s132,Bajrangi Bhaijaan,TV Show,Drama,1991,Canada,TV-14,3 Seasons,Baran bo Odar,Millie Bobby Brown,Bollywood,Hindi,5.3,4224.0,123.79,
+s133,The Crown,Movie,Fantasy,1988,nan,R,1h 30m,Bong Joon-ho,Henry Cavill,Hollywood,English,8.1,48837.0,238.87,
+s134,Money Heist,TV Show,Mystery,1986,Canada,TV-14,nan,Baran bo Odar,Sonam Kapoor,Hollywood,English,6.5,12536.0,197.79,7.0
+s135,The Witcher,Movie,Comedy,2007,UK,nan,2h 10m,Baran bo Odar,Sonam Kapoor,Hollywood,English,8.3,29541.0,275.16,6.0
+s136,Black Mirror,TV Show,Drama,1993,nan,nan,2h 10m,Beau Willimon,Jon Hamm,Hollywood,English,5.3,14547.0,373.69,7.0
+s137,Bajrangi Bhaijaan,Movie,Mystery,2010,India,TV-MA,10 Episodes,Beau Willimon,Jon Hamm,Bollywood,Hindi,6.4,35531.0,358.03,5.0
+s138,Friends,TV Show,Comedy,1998,Canada,nan,2h 10m,Alex Pina,Jennifer Aniston,Hollywood,English,7.4,9712.0,261.1,
+s139,Squid Game,Movie,Fantasy,1995,Canada,TV-MA,5 Seasons,Baran bo Odar,Aamir Khan,Korean,Korean,8.6,,411.37,5.0
+s140,Zindagi Na Milegi Dobara,Movie,Thriller,1984,India,R,2h 10m,Baran bo Odar,Jennifer Aniston,Bollywood,Hindi,6.4,10208.0,216.0,7.0
+s141,Better Call Saul,Movie,Fantasy,2014,nan,TV-14,10 Episodes,Rajkumar Hirani,Shah Rukh Khan,Hollywood,English,7.8,6109.0,448.46,
+s142,Train to Busan,Movie,Mystery,1991,India,TV-14,2h 10m,Beau Willimon,Millie Bobby Brown,Korean,Korean,9.0,36201.0,,5.0
+s143,Train to Busan,Movie,Drama,2004,Canada,TV-MA,5 Seasons,Baran bo Odar,Shah Rukh Khan,Korean,Korean,7.8,,477.38,6.0
+s144,Zindagi Na Milegi Dobara,TV Show,Sci-Fi,2000,India,TV-14,1h 30m,Anurag Kashyap,nan,Bollywood,Hindi,6.0,,327.69,6.0
+s145,Peaky Blinders,TV Show,Mystery,2015,Canada,nan,10 Episodes,Alex Pina,Shah Rukh Khan,Hollywood,English,5.1,21172.0,190.66,
+s146,Stranger Things,TV Show,Sci-Fi,2002,Canada,PG-13,1h 30m,nan,Bryan Cranston,Hollywood,English,8.9,37935.0,99.38,7.0
+s147,Money Heist,Movie,Comedy,1995,UK,TV-MA,1h 30m,Anurag Kashyap,Shah Rukh Khan,Hollywood,English,5.1,27589.0,240.11,8.0
+s148,Riverdale,TV Show,Thriller,2018,USA,TV-14,1h 30m,Anurag Kashyap,Jennifer Aniston,Hollywood,English,8.9,31015.0,,7.0
+s149,Stranger Things,Movie,Crime,2021,Canada,TV-MA,3 Seasons,nan,Henry Cavill,Hollywood,English,7.4,30009.0,84.0,5.0
+s150,Stranger Things,Movie,Fantasy,2018,nan,TV-MA,nan,Bong Joon-ho,Henry Cavill,Hollywood,English,9.2,18773.0,309.06,1.0
