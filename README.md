@@ -6,7 +6,6 @@ This project analyzes Netflix content using exploratory data analysis (EDA), vis
 - NETFLIX.ipynb : Main notebook with analysis
 - netflix_numerical_data.csv : Dataset
 - clean_netflix_data.xlsx : Clean Dataset
-- NETFLIX PowerBI.pbix : PowerBI dashboard
 ## Key Insights
 - Netflix genrates more revenue from movies than TV shows.
 - Comedy, Fantasy and Mystery are the most common genres.
@@ -18,12 +17,6 @@ This project analyzes Netflix content using exploratory data analysis (EDA), vis
 - Movies having higher IMDB ratings have higher number of Reviews.
 - Revenue_Million have a strong positive correlation with User_Reviews, meaning more popular content earns more revenue.
 - IMDB_Rating and User_Reviews are positively correlated, it means higher-rated shows get more user engagement.
-## Power BI Highlights
-- KPI cards for Total Titles, Movies, TV Shows, and Avg IMDb Rating.
-- Genre and language distribution using Tree Maps.
-- IMDb rating trends by release year.
-- Category-wise genre availability via Matrix.
-- Filters for dynamic exploration (Year, Category, Genre).
 ## Skills Used
 - Data Cleaning & Preprocessing
 - Pandas, Matplotlib, Seaborn
